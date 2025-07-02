@@ -1,0 +1,22 @@
+body {
+  font-family: Tahoma, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+  background-color: #222;
+}
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 1em;
+}
+nav ul li a:hover {
+  background-color: #444;
+}
+main {
+  padding: 2em;
+  background-color: #eaeaea;
+}
